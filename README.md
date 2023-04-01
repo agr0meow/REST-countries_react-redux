@@ -13,7 +13,7 @@
 
 Так же для упращения работы с axios были добавлены extraArguments, на выходе было полученно полностью рабочее приложения, с удобным и адаптивным дизайном.
 
-## Изображение проекта
+## Изображения проекта
 
 <img src="https://i.ibb.co/Db4nsSS/image.png" width="800px">
 <img src="https://i.ibb.co/h7pD2H3/image.png" width="800px">
